@@ -20,21 +20,28 @@
 
 <table>
   <tr>
+    <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
       <img src="assets/your-image.png" width="100%" alt="Project image"/>
+
+      <table width="100%">
+        <tr>
+          <td width="33%">Box 1</td>
+          <td width="33%">Box 2</td>
+          <td width="33%">Box 3</td>
+        </tr>
+      </table>
+
+      <p>Description text goes here — this is the bigger box.</p>
+
+      <img src="assets/second-image.png" width="100%" alt="Second image"/>
     </td>
+
+    <!-- RIGHT COLUMN -->
     <td width="65%" valign="top">
-      <p>Your project description goes here. Explain what it does, why it exists, and any key features.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><em>Extra description or notes for the image side.</em></p>
-    </td>
-    <td valign="top" align="center">
+      <p>Top-right description text.</p>
       <img src="assets/banner.png" width="100%" alt="Banner"/>
-      <br/>
-      <table>
+      <table width="100%">
         <tr>
           <td>Item 1</td>
           <td>Item 2</td>
