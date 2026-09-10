@@ -1,6 +1,13 @@
 <!-- Worii's Information! -->
-<h1 align="center">Worii's Here</h1>
+<h1 align="center">-------------- Worii's Here! --------------</h1>
 
+┊         ┊       ┊   ┊    ┊        ┊  
+┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆  
+┊         ┊       ┊   ⋆  
+┊         ┊       ★⋆  
+┊ ◦  
+★⋆      ┊ .  ˚  
+           ˚★.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 ---
 
 <p align="center">
