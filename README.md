@@ -1,4 +1,9 @@
-Test
+<!-- Worii's Information! -->
+
+<p align="center">
+  <img src="./assets/images/worii.png"
+</p>
+
 
 <!--
 **Julcarya/Julcarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
