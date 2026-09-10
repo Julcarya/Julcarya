@@ -1,6 +1,7 @@
 <!-- Worii's Information! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&size=30&duration=3000&pause=1000&color=C627F7&multiline=true&width=410&height=60&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+%E1%B6%BB+%F0%9D%97%93+%F0%90%B0%81+.%E1%90%9F+Worii+%D6%B4+%E0%A3%AA%F0%96%A4%90.%E1%90%9F+%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80)](https://git.io/typing-svg)
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?  font=Quintessential&size=30&duration=3000&pause=1000&color=C627F7&multiline=true&width=410&height=60&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+%E1%B6%BB+  %F0%9D%97%93+%F0%90%B0%81+.%E1%90%9F+Worii+%D6%B4+%E0%A3%AA%F0%96%A4%90.%E1%90%9F+%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80)](https://git.io/typing-svg)
+</p>
 
 
 ---
