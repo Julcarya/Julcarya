@@ -4,25 +4,25 @@
   <tr>
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&lines=%E2%8B%86%E2%81%BA%E2%80%A7%E2%82%8A%E2%98%BD...+Welcome+%E2%9B%A6+Visitor!+...%E2%98%BE%E2%82%8A%E2%80%A7%E2%81%BA%E2%8B%86" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&lines=%E2%8B%86%E2%81%BA%E2%80%A7%E2%82%8A%E2%98%BD...+Welcome+%E2%9B%A6+Visitor!+...%E2%98%BE%E2%82%8A%E2%80%A7%E2%81%BA%E2%8B%86" alt="Typing SVG" /></a>
       <img src="./assets/images/WoriiPfp-modified.png" width="100%" alt="Project image"/>
       <img width="30%" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000"><img width="40%" alt="Static Badge" src="https://img.shields.io/badge/Roblox-%40LomiiJulcarya-purple?style=flat&logo=Roblox&logoColor=%23ffffff&labelColor=%23A9A9A9&color=%23000000"><img width="30%" alt="Static Badge" src="https://img.shields.io/badge/Witch-Stars-purple?style=for-the-badge&logo=Contributor%20Covenant&logoColor=%23FFD700&labelColor=%23301934&color=%23000000">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%22If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F%22" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%22If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F%22" alt="Typing SVG" /></a>
       <hr/>
         <table width="100%" cellspacing="0" cellpadding="0" border="0">
       </table>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
         <img align="bottom" src="./assets/images/WoriiDance.gif" width="100%" alt="Second image"/>
     </td>
     <!-- RIGHT COLUMN -->
     <td width="65%" valign="top">
       <hr/>
       <a><p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" /></a>
         <hr/>
       </p>
       </a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=2000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
       <!-- Standalone 2-column description, separate table -->
       <table width="100%" cellspacing="0" cellpadding="0" border="0">
         <tr>
