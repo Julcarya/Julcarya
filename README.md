@@ -13,10 +13,6 @@
   </tr>
 </table>
 
----
-
-![Static Badge](https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000)
-
 <table>
   <tr>
     <!-- LEFT COLUMN -->
@@ -24,7 +20,7 @@
       <img src="./assets/images/WoriiPfp.png" width="100%" alt="Project image"/>
       <table width="100%">
         <tr>
-          <td width="33%">Box 1</td>
+          <td width="33%">![Static Badge](https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000)</td>
           <td width="33%">Box 2</td>
           <td width="33%">Box 3</td>
         </tr>
