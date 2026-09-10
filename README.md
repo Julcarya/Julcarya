@@ -8,7 +8,7 @@
       <img src="./assets/images/WoriiPfp.png" width="100%" alt="Project image"/>
       <hr/>
       <table width="100%">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Roblox-%40LomiiJulcarya-purple?style=flat&logo=Roblox&logoColor=%23ffffff&labelColor=%23A9A9A9&color=%23000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Roblox-%40LomiiJulcarya-purple?style=flat&logo=Roblox&logoColor=%23ffffff&labelColor=%23A9A9A9&color=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Witch-Stars-purple?style=for-the-badge&logo=Contributor%20Covenant&logoColor=%23FFD700&labelColor=%23301934&color=%23000000">
       </table>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
       <p></p>
