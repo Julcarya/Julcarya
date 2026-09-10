@@ -9,7 +9,7 @@
       <hr/>
       <table width="100%">
         <tr>
-          <td width="33%"><img width="200" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?                style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000">
+          <td width="33%"><img width="200" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000">
           <td width="33%">Box 2</td>
           <td width="33%">Box 3</td>
         </tr>
@@ -27,6 +27,14 @@
       </p>
       </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=700&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
+      <!-- Standalone 2-column description, separate table -->
+      <table width="100%">
+        <tr>
+          <td width="50%" valign="top">Description A</td>
+          <td width="50%" valign="top">Description B</td>
+        </tr>
+      </table>
+      <br/>
       <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=2000&pause=500&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=400&lines=I+am+currently+obtaining+my+BS+degree+in+Computer+Engineering!;+;--+--+--+%5B%2F%5D+Heavily+Interested%2C+%5B%5D+Interested+--+--+--;%5B%2F%5D+Minecraft++%5B%2F%5D+League+of+Legends+%5B%2F%5D+Anime;%5B%5D+Roblox+%5B%5D+Survival+Games+%5B%5D+Slice+of+Life;%5B%5D+Horror+Games+%5B%5D+Storytelling+Games+%5B%5D+Witches;%5B%2F%5D+Rhythm+Games+%5B%2F%5D+Chill+Games+%5B%2F%5D+Psychological;%5B%2F%5D+Multiplayer+%5B%5D+Customizable+Games+%5B%2F%5D+Romance;+;Currently+18+years+old%2C+learning+how+to+program.;Please+don't+lose+your+motivation!+Keep+fighting+through!" alt="Typing SVG" /></a></p>
       <img src="./assets/images/WoriiBannerA.png" width="100%" alt="Banner"/>
       <table width="100%">
