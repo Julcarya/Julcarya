@@ -9,7 +9,7 @@
       <hr/>
       <table width="100%">
         <tr>
-          <td width="33%"><img width="200" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000">
+          <td width="33%"><img width="400" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000">
           <td width="33%">Box 2</td>
           <td width="33%">Box 3</td>
         </tr>
