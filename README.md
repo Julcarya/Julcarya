@@ -36,8 +36,7 @@
       </table>
       <br/>
       <p></p>
-      <img src="./assets/images/WoriiBannerA.png" width="80%" alt="Banner"/>
-      <table width="100%">
+            <table width="100%">
         <tr>
           <td>Item 1</td>
           <td>Item 2</td>
@@ -49,6 +48,7 @@
           <td>Item 6</td>
         </tr>
       </table>
+      <img src="./assets/images/WoriiBannerA.png" width="80%" alt="Banner"/>
     </td>
   </tr>
 </table>
