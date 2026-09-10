@@ -36,7 +36,7 @@
       </table>
       <br/>
       <p></p>
-      <img src="./assets/images/WoriiBannerA.png" width="100%" alt="Banner"/>
+      <img src="./assets/images/WoriiBannerA.png" width="80%" alt="Banner"/>
       <table width="100%">
         <tr>
           <td>Item 1</td>
