@@ -1,12 +1,10 @@
 <!-- Worii's Information! -->
-<p align="center">
-  <h1> Worii's Here! </h1>
-</p>
+<h1 align="center">Worii's Here</h1>
 
 ---
 
 <p align="center">
-  <img src="./assets/images/WoriiBanner.png" style="border: 2px solid #000000;" width="100%" alt="Worii's Banner">
+  <img src="./assets/images/WoriiBanner.png" width="100%" alt="Worii's Banner">
 </p>
 
 ---
