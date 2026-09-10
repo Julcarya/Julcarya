@@ -1,6 +1,6 @@
 <!-- Worii's Information! -->
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
