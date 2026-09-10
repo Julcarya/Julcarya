@@ -1,9 +1,15 @@
 <!-- Worii's Information! -->
-
 <p align="center">
-  <img src="./assets/images/WoriiBanner.png" width="100%" alt="Worii's Banner">
+  <h1> Worii's Here! </h1>
 </p>
 
+---
+
+<p align="center">
+  <img src="./assets/images/WoriiBanner.png" style="border: 2px solid #000000;" width="100%" alt="Worii's Banner">
+</p>
+
+---
 
 <!--
 **Julcarya/Julcarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
