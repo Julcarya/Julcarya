@@ -17,14 +17,13 @@
       </p>
       <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&height=400&lines=Studying+BS+in+Computer+Engineering;I+am+currently+18+years+old;I+go+by+he%2Fhim+but+my+fursona+goes+by;she%2Fher%2C+Worii+is+based+off+of+my+cat.;She's+called+taffy%2C+my+adorable+cat+%3A3;+;I+am+but+a+humble+guy+waiting+for;something+to+happen.;Currently+busy+with+College!;Playing+~+Melatonin+-+Jomm" alt="Typing SVG" /></a> <hr/> <img align="bottom" src="./assets/images/Stars.gif" width="100%" alt="Second image"/> 
     </td>
-      <hr/>
     <!-- RIGHT COLUMN -->
-    <td width="800" valign="top">
+    <td width="65%" valign="top">
       <hr/>
-      <a><p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" /></a>
-        <hr/>
-      </p>
+      <a><p align="center"> <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" />
+      </a> 
+        <hr/> 
+      </p> 
       </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=615&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
       <!-- Standalone 2-column description, separate table -->
