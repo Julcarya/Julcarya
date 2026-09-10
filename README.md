@@ -24,7 +24,7 @@
         <hr/>
       </p>
       </a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=615&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
       <!-- Standalone 2-column description, separate table -->
       <table width="100%">
         <tr>
