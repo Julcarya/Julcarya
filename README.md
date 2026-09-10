@@ -12,7 +12,7 @@
           <td width="33%">Box 3</td>
         </tr>
       </table>
-      <p>Description text goes here — this is the bigger box.</p>
+      <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a></p>
       <img src="assets/second-image.png" width="100%" alt="Second image"/>
     </td>
     <!-- RIGHT COLUMN -->
