@@ -4,7 +4,7 @@
   <tr>
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=...+Welcome+Visitor!+..." alt="Typing SVG" /></a>
+      <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=25&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=300&lines=...+Welcome+Visitor!+..." alt="Typing SVG" /></a>
       <img src="./assets/images/WoriiPfp.png" width="100%" alt="Project image"/>
       <hr style="border: none; height: 1px; background-color: #ddd; margin: 10px 0;"/>
       <table width="100%">
