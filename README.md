@@ -22,7 +22,7 @@
     <td width="65%" valign="top">
       <hr/>
       <a><p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=Worii+%7C+Julcarya+%7C+Lomi" alt="Typing SVG" /></a>
         <hr/>
       </p>
       </a>
