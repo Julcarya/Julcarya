@@ -45,7 +45,7 @@
           <td>Item 6</td>
         </tr>
       </table>
-      <img src="./assets/images/WoriiBannerA.png" width="100%" alt="Banner"/>
+      <img src="./assets/images/WoriiBannerA.png" width="90%" alt="Banner"/>
     </td>
   </tr>
 </table>
