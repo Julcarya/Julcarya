@@ -1,5 +1,5 @@
 <!-- Worii's Information! -->
-<h1 align="center" style="purple"> Worii's</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=C627F7&multiline=true&width=435&height=32&lines=Worii+the+)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=25&pause=1000&color=F7BF51&multiline=true&width=435&height=32&lines=Astral)](https://git.io/typing-svg)
 
 
 
