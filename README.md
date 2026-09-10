@@ -1,17 +1,15 @@
 <!-- Worii's Information! -->
+
+<p align="center">
+  <img src="./assets/images/WoriiBanner.png" width="20%" alt="Worii's Banner">
+</p>
+
 ---
 
 <p align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&size=50&duration=2000&pause=1000&color=F7D551&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=70&lines=+%E2%8A%B9%E2%82%8A%CB%9A%E2%80%A7%EF%B8%B5%E2%80%BF%E2%82%8A%E1%A8%B3+Worii+%E0%AC%93%E2%82%8A%E2%80%BF%EF%B8%B5%E2%80%A7%CB%9A%E2%82%8A%E2%8A%B9" alt="Typing SVG" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="./assets/images/WoriiBanner.png" width="900" alt="Worii's Banner">
-</p>
-
----
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&size=46&duration=2000&pause=1000&color=F7D551&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=70&lines=Welcome+to+Worii's+Information!" alt="Typing SVG" /></a>
 
 ![Static Badge](https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000)
