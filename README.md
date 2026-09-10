@@ -1,5 +1,5 @@
 <!-- Worii's Information! -->
-<h1 align="center">-------------- Worii's Here! --------------</h1>
+<h1 align="center" style="purple"> Worii's</h1>
 
 
 
