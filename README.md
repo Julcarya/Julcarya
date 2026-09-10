@@ -5,6 +5,7 @@
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
       <img src="./assets/images/WoriiPfp.png" width="100%" alt="Project image"/>
+      <hr style="border: none; height: 1px; background-color: #ddd; margin: 10px 0;"/>
       <table width="100%">
         <tr>
           <td width="33%"><img width="200" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000">
