@@ -12,7 +12,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=%22If+I+was+the+moon+would;you+still+look+for+the+stars%3F%22" alt="Typing SVG" />
       </a>
       <hr/> 
-      <p align="center"><a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=100%&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" />
+      <p align="center"><a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" />
       </a>
       </p>
         <table width="100%">
