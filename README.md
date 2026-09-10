@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://placeholder.com" alt="./assets/images/WoriiPfp.png" width="150"/>
+      <img src="https://placeholder.com" alt="./assets/images/WoriiPfp.png" width="45%"/>
     </td>
     <td>
       <strong>Your Textbox Title</strong><br>
