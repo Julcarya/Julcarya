@@ -1,7 +1,7 @@
 <!-- Worii's Information! -->
 
 <p align="center">
-  <img src="./assets/images/worii.png"
+  <img src="./assets/images/WoriiBanner.png"
 </p>
 
 
