@@ -1,6 +1,6 @@
 <!-- Worii's Information! -->
 
-<p align="center">
+<p align="left">
   <img src="./assets/images/WoriiBanner.png" width="40%" alt="Worii's Banner">
 </p>
 
