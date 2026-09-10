@@ -8,7 +8,7 @@
       <img src="./assets/images/WoriiPfp-modified.png" width="100%" alt="Project image"/>
       <img width="30%" alt="Static Badge" src="https://img.shields.io/badge/Discord-%40Julcarya-purple?style=flat&logo=Discord&logoColor=%23FFD700&labelColor=%238A2BE2&color=%23000000"><img width="40%" alt="Static Badge" src="https://img.shields.io/badge/Roblox-%40LomiiJulcarya-purple?style=flat&logo=Roblox&logoColor=%23ffffff&labelColor=%23A9A9A9&color=%23000000"><img width="30%" alt="Static Badge" src="https://img.shields.io/badge/Witch-Stars-purple?style=for-the-badge&logo=Contributor%20Covenant&logoColor=%23FFD700&labelColor=%23301934&color=%23000000">
       <hr/>
-      <table width="100%">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
       </table>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
       <p></p>
@@ -24,7 +24,7 @@
       </a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=2000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a>
       <!-- Standalone 2-column description, separate table -->
-      <table width="100%">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td width="30%" valign="top"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=210&height=550&lines=Likes%3A;%5B%2F%5D+Survival+Games;%5B%2F%5D+Multiplayer+Games;%5B%2F%5D+Anime;+%5B%2F%5D+Math;%5B%2F%5D+Music;%5B+%5D+Horror;%5B+%5D+Romance;%5B+%5D+Psychological;%5B+%5D+Witches;%5B+%5D+Fashion;+;Dislikes%3A;Being+unjustified;Being+Unreasonable" alt="Typing SVG" /></a></td>
           <td width="70%" valign="top"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=25&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=332&height=400&lines=+Worii's+Whimsical+Tale%3A;%22Worii+the+mystical+Cat+Witch%2C+stories+say+that;they+see+her+wandering+around+open+fields.;Looking+at+the+stars%2C+when+it+unravels.;When+they+do%2C+she+admires+from+afar%2C;not+a+hint+from+anyone%2C+not+even+gravel.;Those+who+admire+the+stars+will+receive%2C;motivation+and+kindness.;Just+don't+let+negativity%2C;be+your+blindness.%22;+;-+Worii" alt="Typing SVG" /></a></td>
@@ -32,7 +32,7 @@
       </table>
       <br/>
       <p></p>
-            <table width="100%">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
         <tr>
           <td>Item 1</td>
           <td>Item 2</td>
