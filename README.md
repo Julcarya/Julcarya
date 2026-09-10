@@ -35,7 +35,7 @@
       <br/>
       <p></p>
             <table width="100%">
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&lines=%E2%9B%A7%C2%B0%E3%80%82+%E2%8B%86%E0%BC%BA+Hall+of+Fame+%E0%BC%BB%E2%8B%86%E3%80%82+%C2%B0%E2%9B%A7" alt="Typing SVG" /></a>
+            <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&lines=%E2%9B%A7%C2%B0%E3%80%82+%E2%8B%86%E0%BC%BA+Hall+of+Fame+%E0%BC%BB%E2%8B%86%E3%80%82+%C2%B0%E2%9B%A7" alt="Typing SVG" /></a>
         <tr>
           <td>Item 1</td>
           <td>Item 2</td>
