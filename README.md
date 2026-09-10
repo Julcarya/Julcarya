@@ -22,7 +22,7 @@
   <tr>
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
-      <img src="assets/your-image.png" width="100%" alt="Project image"/>
+      <img src="./assets/images/WoriiPfp.png" width="100%" alt="Project image"/>
       <table width="100%">
         <tr>
           <td width="33%">Box 1</td>
