@@ -23,7 +23,6 @@
     <!-- LEFT COLUMN -->
     <td width="35%" valign="top">
       <img src="assets/your-image.png" width="100%" alt="Project image"/>
-
       <table width="100%">
         <tr>
           <td width="33%">Box 1</td>
@@ -31,12 +30,9 @@
           <td width="33%">Box 3</td>
         </tr>
       </table>
-
       <p>Description text goes here — this is the bigger box.</p>
-
       <img src="assets/second-image.png" width="100%" alt="Second image"/>
     </td>
-
     <!-- RIGHT COLUMN -->
     <td width="65%" valign="top">
       <p>Top-right description text.</p>
