@@ -25,7 +25,7 @@
         <hr/>
       </p></a>
       <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=700&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7" alt="Typing SVG" /></a></p>
-      <img src="assets/banner.png" width="100%" alt="Banner"/>
+      <img src="./assets/images/WoriiBanner.png" width="30%" alt="Banner"/>
       <table width="100%">
         <tr>
           <td>Item 1</td>
