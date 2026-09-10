@@ -12,8 +12,9 @@
       <table width="100%" cellspacing="0" cellpadding="0" border="0">
       </table>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
-      <p></p>
-      <img align="bottom" src="./assets/images/WoriiDance.gif" width="100%" alt="Second image"/>
+      <td width="35%" valign="bottom">
+        <img align="bottom" src="./assets/images/WoriiDance.gif" width="100%" alt="Second image"/>
+      </td>
     </td>
     <!-- RIGHT COLUMN -->
     <td width="65%" valign="top">
