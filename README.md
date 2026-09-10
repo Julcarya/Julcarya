@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/images/WoriiBanner.png" width="900" alt="Worii's Banner">
+  <img src="./assets/images/WoriiBanner.png" width="900" height="300" alt="Worii's Banner">
 </p>
 
 ---
