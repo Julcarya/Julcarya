@@ -32,7 +32,6 @@
           <td width="70%" valign="top"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=25&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=350&height=400&lines=+Worii's+Whimsical+Tale%3A;%22Worii+the+mystical+Cat+Witch%2C+stories+say+that;they+see+her+wandering+around+open+fields.;Looking+at+the+stars%2C+when+it+unravels.;When+they+do%2C+she+admires+from+afar%2C;not+a+hint+from+anyone%2C+not+even+gravel.;Those+who+admire+the+stars+will+receive%2C;motivation+and+kindness.+.%E2%8B%86%E2%99%B1%E2%83%93++%E2%9B%A7%E2%82%8A+%E2%8A%B9;Just+don't+let+negativity%2C++%E2%9B%A7%E2%82%8A+%E2%8A%B9;be+your+blindness.%22+%F0%96%A4%90%E2%8B%86%CB%9A%E0%BF%94%E2%9F%A1%CB%8E%CB%8A%CB%97;+;-+Worii+%E2%9C%A9%E2%82%8A%CB%9A.%E2%8B%86%E2%98%BE%E2%8B%86%E2%81%BA%E2%82%8A" alt="Typing SVG" /></a>
         </tr>
       </table>
-      <br/>
       <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&lines=%E2%9B%A7%C2%B0%E3%80%82+%E2%8B%86%E0%BC%BA+Hall+of+Fame+%E0%BC%BB%E2%8B%86%E3%80%82+%C2%B0%E2%9B%A7" alt="Typing SVG" /></a></p>
             <table width="100%">
         <tr>
