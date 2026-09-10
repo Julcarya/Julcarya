@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/images/WoriiBanner.png" width="100%" alt="Worii's Banner">
+  <img src="./assets/images/WoriiBanner.png" width="900" alt="Worii's Banner">
 </p>
 
 ---
