@@ -23,8 +23,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
 
   <!-- Quote -->
   <a href="https://git.io/typing-svg">
-    <img width="100%" alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=25&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=280&lines=%22If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F%22"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=%22If+I+was+the+moon+would;you+still+look+for+the+stars%3F%22" alt="Typing SVG" /></a>
   </a>
 
   <hr/>
