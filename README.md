@@ -45,7 +45,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   </a>
   <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21zlqj34eilozdzda626t4t4a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zlqj34eilozdzda626t4t4a&cover_image=true&theme=default&show_offline=true&background_color=8d3f92&interchange=false&profanity=false&hide_remaster=false&bar_color=ffd500">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zlqj34eilozdzda626t4t4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffd500">
   </a>
 </p>
 
