@@ -34,7 +34,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img width="100%" alt="Typing SVG"
-        src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=280&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Interests!++%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80"/>
+        src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=35&duration=1000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=280&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E0%AD%A8+My+Information!+%E0%A7%8E%E2%94%80%E2%94%80%E2%94%80%E2%94%80"/>
     </a>
   </p>
 
