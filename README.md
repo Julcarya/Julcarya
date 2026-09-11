@@ -92,7 +92,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <!-- "Hall of Fame" section header (for friendzzz) -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img width="520" alt="Typing SVG"
+      <img width=100%" alt="Typing SVG"
         src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=520&lines=%E2%9B%A7%C2%B0%E3%80%82+%E2%8B%86%E0%BC%BA+Hall+of+Fame+%E0%BC%BB%E2%8B%86%E3%80%82+%C2%B0%E2%9B%A7"/>
     </a>
   </p>
