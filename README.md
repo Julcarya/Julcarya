@@ -49,7 +49,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <!-- Bottom image with Byebye! -->
   <img align="bottom" src="./assets/images/Stars.gif" width="100%" alt="Second image"/>
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=154&height=70&lines=Bye+bye!" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=*%E0%A9%88%E2%9C%A9%E2%80%A7%E2%82%8A%CB%9A+Bye+bye!+*%E0%A9%88%E2%9C%A9%E2%80%A7%E2%82%8A%CB%9A" alt="Typing SVG" />
     </a>
   </p>
   <hr/>
