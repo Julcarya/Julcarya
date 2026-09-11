@@ -30,7 +30,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
 
   <hr/>
 
-  <!-- My Interests heading -->
+  <!-- My Information heading -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img width="100%" alt="Typing SVG"
