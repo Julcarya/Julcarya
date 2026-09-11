@@ -71,7 +71,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
       src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&pause=100&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=520&lines=%E2%9B%A7+%C2%B7+%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7%E2%98%BD+Description+%E2%98%BE%C2%B7+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+%C2%B7+%C2%B7+%E2%9B%A7"/>
   </a>
 
-  <!-- Likes/Dislikes + Whimsical Tale, side by side -->
+  <!-- Likes/Dislikes and the Worii Whimsical Tale, side by side -->
   <table width="100%">
     <tr>
       <td width="30%" valign="top">
@@ -89,7 +89,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
     </tr>
   </table>
 
-  <!-- "Hall of Fame" section header -->
+  <!-- "Hall of Fame" section header (for friendzzz) -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img width="100%" alt="Typing SVG"
