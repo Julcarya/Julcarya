@@ -100,7 +100,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <table width="100%">
     <tr>
       <td width="33%">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=260&height=100&lines=%40astral.web" alt="Typing SVG" /></a></td>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=260&height=70&lines=%40astral.web" alt="Typing SVG" /></a></td>
       <td width="33%">Item 2</td>
       <td width="33%">Item 3</td>
     </tr>
