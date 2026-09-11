@@ -41,8 +41,13 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <!-- Stats block -->
   <a href="https://git.io/typing-svg">
     <img width="100%" alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=280&height=400&lines=Studying+BS+in+Computer+Engineering;I+am+currently+18+years+old;I+go+by+he%2Fhim+but+my+fursona+goes+by;she%2Fher%2C+Worii+is+based+off+of+my+cat.;She's+called+taffy%2C+my+adorable+cat+%3A3;+;I+am+but+a+humble+guy+waiting+for;something+to+happen.;Currently+busy+with+College!;Playing+~+Melatonin+-+Jomm"/>
+      src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=280&height=400&lines=Studying+BS+in+Computer+Engineering;I+am+currently+18+years+old;I+go+by+he%2Fhim+but+my+fursona+goes+by;she%2Fher%2C+Worii+is+based+off+of+my+cat.;She's+called+taffy%2C+my+adorable+cat+%3A3;+;I+am+but+a+humble+guy+waiting+for;something+to+happen.;Currently+busy+with+College!"/>
   </a>
+  <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21zlqj34eilozdzda626t4t4a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zlqj34eilozdzda626t4t4a&cover_image=true&theme=default&show_offline=true&background_color=8d3f92&interchange=false&profanity=false&hide_remaster=false&bar_color=ffd500">
+  </a>
+</p>
 
   <hr/>
 
