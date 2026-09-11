@@ -99,14 +99,14 @@ to redo the entire bit just for a safe bet that I've really double checked-->
   <!-- Items grid -->
   <table width="100%">
     <tr>
-      <td>Item 1</td>
-      <td>Item 2</td>
-      <td>Item 3</td>
+      <td width="33%">Item 1</td>
+      <td width="33%">Item 2</td>
+      <td width="33%">Item 3</td>
     </tr>
     <tr>
-      <td>Item 4</td>
-      <td>Item 5</td>
-      <td>Item 6</td>
+      <td width="33%">Item 4</td>
+      <td width="33%">Item 5</td>
+      <td width="33%">Item 6</td>
     </tr>
   </table>
 
