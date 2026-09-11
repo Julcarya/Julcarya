@@ -59,7 +59,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
     <p align="center">
       <a href="https://git.io/typing-svg">
         <img width="100%" alt="Typing SVG"
-          src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=%E2%98%BE+Worii+%7C+Julcarya+%7C+Lomi+%F0%96%A4%90%D6%B4" alt="Typing SVG" />
+          src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=70&lines=%E2%98%BE+Worii+%7C+Julcarya+%7C+Lomi+%F0%96%A4%90%D6%B4" alt="Typing SVG" />
       <hr/>
     </p>
   </a>
