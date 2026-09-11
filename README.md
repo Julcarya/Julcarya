@@ -46,9 +46,12 @@ to redo the entire bit just for a safe bet that I've really double checked-->
 
   <hr/>
 
-  <!-- Bottom image -->
+  <!-- Bottom image with Byebye! -->
   <img align="bottom" src="./assets/images/Stars.gif" width="100%" alt="Second image"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=154&height=70&lines=Bye+bye!" alt="Typing SVG" /></a>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=50&duration=2000&pause=1000&color=F7BF51&center=true&vCenter=true&multiline=true&repeat=false&width=154&height=70&lines=Bye+bye!" alt="Typing SVG" />
+    </a>
+  </p>
   <hr/>
 </td>
 
