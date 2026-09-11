@@ -76,7 +76,7 @@ to redo the entire bit just for a safe bet that I've really double checked-->
       <td width="30%" valign="top">
         <a href="https://git.io/typing-svg">
           <img width="100%" alt="Typing SVG"
-            src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=150&height=550&lines=Likes%3A;%5B%2F%5D+Survival+Games;%5B%2F%5D+Multiplayer+Games;%5B%2F%5D+Anime;+%5B%2F%5D+Math;%5B%2F%5D+Music;%5B+%5D+Horror;%5B+%5D+Romance;%5B+%5D+Psychological;%5B+%5D+Witches;%5B+%5D+Fashion;+;Dislikes%3A;Being+unjustified;Being+Unreasonable"/>
+            src="https://readme-typing-svg.demolab.com?font=Yuyu+Short&size=30&duration=1000&color=F7BF51&vCenter=true&multiline=true&repeat=false&width=150&height=550&lines=Likes%3A;%5B%2F%5D+Survival+Games;%5B%2F%5D+Multiplayer+Games;%5B%2F%5D+Anime;+%5B%2F%5D+Math;%5B%2F%5D+Music;%5B+%5D+Horror;%5B+%5D+Romance;%5B+%5D+Psychological;%5B+%5D+Witches;%5B+%5D+Fashion;+;Dislikes%3A;Being+unjustified;Unreasonable"/>
         </a>
       </td>
       <td width="70%" valign="top">
