@@ -4,7 +4,6 @@ for width and is the reason why the about me looks weird. Trying to fix it will 
 to redo the entire bit just for a safe bet that I've really double checked-->
 <!-- ==================== LEFT COLUMN (35%) ==================== -->
 <table> <tr>
-<!-- ==================== LEFT COLUMN (35%) ==================== -->
 <td width="35%" valign="top">
 
   <!-- Welcome banner -->
