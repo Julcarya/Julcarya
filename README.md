@@ -1,3 +1,8 @@
+<p>
+  <font face="Yuyu Short">
+  Best Viewed on PC
+  </font>
+</p>
 <!-- Worii's Information! -->
 <!-- Complete revision from the first one, issue with the first was that I used set pixels instead of percentage
 for width and is the reason why the about me looks weird. Trying to fix it will take a while but I think I need
