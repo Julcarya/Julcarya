@@ -1,7 +1,5 @@
-<p>
-  <font face="Yuyu Short">
+<p align="center">
   Best Viewed on PC
-  </font>
 </p>
 <!-- Worii's Information! -->
 <!-- Complete revision from the first one, issue with the first was that I used set pixels instead of percentage
